@@ -93,9 +93,13 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName:"typescript",
-      fontAwesomeClassname: "fab fa-typescript"
+      skillName: "shell scripting",
+      fontAwesomeClassname: "fas fa-terminal"
     },
+    {
+      skillName: "markdown",
+      fontAwesomeClassname: "fab fa-markdown"
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
