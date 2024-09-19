@@ -52,11 +52,11 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Program both front-end and back-end applications with JavaScript, Python, and Shell Scripting"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Develop discord applications with discord.js and typescript"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Create different shell scripts to automate and manage tasks with bash and python"
     )
   ],
 
@@ -198,28 +198,33 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME PROJECTS THAT I HAVE WORKED ON THAT ARE STILL IN PROGRESS",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "ZenithOS",
+      projectDesc: "ZenithOS is a custom firmware for the flipper zero. It offers more features and customization than the stock firmware.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Github",
+          url: "http://github.com/SoundPhoenix/ZenithOS"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Project Phoenix",
+      projectDesc: "Project Phoenix is a discord bot that is designed to help manage and moderate discord servers.",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Github",
           url: "http://nextu.se/"
+        },
+        
+        {
+          name: "Website",
+          url: "https://phoenix.tannerschermerhorn.dev"
         }
       ]
     }
