@@ -253,8 +253,8 @@ const achievementSection = {
       title: "Test Out IT Fundamentals",
       subtitle:
         "Completed the Test Out IT Fundamentals certification exam. This exam covers the basics of computer hardware, software, and networking.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      image: require("./assets/images/testout.png"),
+      imageAlt: "Test Out Logo",
       footerLink: [
         {
           name: "Certification",
@@ -264,16 +264,15 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Test Out Office Pro",
+      subtitle: "Completed the Test Out Office Pro certification exam. This exam covers the basics of Microsoft Office.",
+      image: require("./assets/images/testout.png"),
+      imageAlt: "Test Out Logo",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+          name: "Certification", 
+          url: "https://drive.google.com/file/d/1Vhv58iuBxeiZzCaIZAy8aIRKwb-YWmKN/view?usp=sharing"
+        },
       ]
     }
   ],
