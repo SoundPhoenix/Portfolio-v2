@@ -253,7 +253,7 @@ const achievementSection = {
       title: "Test Out IT Fundamentals",
       subtitle:
         "Completed the Test Out IT Fundamentals certification exam. This exam covers the basics of computer hardware, software, and networking.",
-      image: require("./assets/images/testout.png"),
+      image: require("./assets/images/testout.jpg"),
       imageAlt: "Test Out Logo",
       footerLink: [
         {
@@ -266,7 +266,7 @@ const achievementSection = {
     {
       title: "Test Out Office Pro",
       subtitle: "Completed the Test Out Office Pro certification exam. This exam covers the basics of Microsoft Office.",
-      image: require("./assets/images/testout.png"),
+      image: require("./assets/images/testout.jpg"),
       imageAlt: "Test Out Logo",
       footerLink: [
         {
