@@ -239,9 +239,9 @@ const achievementSection = {
     {
       title: "Microsoft Assosiate Microsoft Certified: 365 Apps",
       subtitle:
-        "Completed the Microsoft 365 Apps certification exam.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Completed the Microsoft 365 Apps certification exam. This exam covers the basics of Microsoft 365 Apps.",
+      image: require("./assets/images/Microsoft_365_Logo.png"),
+      imageAlt: "Microsoft 365 Apps Logo",
       footerLink: [
         {
           name: "Certification",
@@ -250,15 +250,15 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Test Out IT Fundamentals",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Completed the Test Out IT Fundamentals certification exam. This exam covers the basics of computer hardware, software, and networking.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1II_2gqIF5GPg22JkwGCTnJG4Ycmn-P6b/view?usp=sharing"
         }
       ]
     },
