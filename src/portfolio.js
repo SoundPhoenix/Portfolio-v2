@@ -194,6 +194,26 @@ const openSource = {
   display: true // Set false to hide this section, defaults to true
 };
 
+
+// Donate Section
+const donateSection ={
+  title: "Want to donate?",
+  subtitle: "HERE ARE SOME WAYS YOU CAN SUPPORT ME",
+  
+  donate: [
+    {
+      image: require ("./assets/images/buymeacoffee.png"),
+      name: "Buy Me a Coffee",
+      website: "https://www.buymeacoffee.com/tannerschermerhorn",
+      description: "You can support me by buying me a coffee. Every coffee helps me stay up late and work on projects."
+
+    }
+
+  ]
+}
+
+
+
 // Some big projects you have worked on
 
 const bigProjects = {
@@ -280,6 +300,20 @@ const achievementSection = {
         },
       ]
     }
+
+    {
+      title: "Microsoft Expert Microsoft 365 Apps",
+      subtitle:
+        "Completed the Microsoft Word Expert Exam. This exam covers the advanced tools of Microsoft Word.",
+      image: require("./assets/images/Microsoft_365_Logo.png"),
+      imageAlt: "Microsoft 365 Apps Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1yAwguSztE6jndQZOLbEzaH7bciCExJHj/view?usp=drive_link"
+        },
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -384,5 +418,6 @@ export {
   contactInfo,
   twitterDetails,
   isHireable,
-  resumeSection
+  resumeSection,
+  donateSection
 };
