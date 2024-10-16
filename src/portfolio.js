@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/SoundPhoenix",
   //linkedin: "https://www.linkedin.com/in/saadpasta/",
   gmail: "me@tannerschermerhorn.dev",
-  gitlab: "https://gitlab.com/saadpasta",
+  //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/",
   //medium: "https://medium.com/@saadpasta",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
