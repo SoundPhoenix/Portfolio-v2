@@ -299,7 +299,7 @@ const achievementSection = {
           url: "https://drive.google.com/file/d/1Vhv58iuBxeiZzCaIZAy8aIRKwb-YWmKN/view?usp=sharing"
         },
       ]
-    }
+    },
 
     {
       title: "Microsoft Expert Microsoft 365 Apps",
