@@ -262,7 +262,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Microsoft Assosiate Microsoft Certified: 365 Apps",
+      title: "Microsoft Word Associate Microsoft Certified: 365 Apps",
       subtitle:
         "Completed the Microsoft 365 Apps certification exam. This exam covers the basics of Microsoft 365 Apps.",
       image: require("./assets/images/Microsoft_365_Logo.png"),
@@ -302,7 +302,7 @@ const achievementSection = {
     },
 
     {
-      title: "Microsoft Expert Microsoft 365 Apps",
+      title: "Microsoft Word Expert Microsoft 365 Apps",
       subtitle:
         "Completed the Microsoft Word Expert Exam. This exam covers the advanced tools of Microsoft Word.",
       image: require("./assets/images/Microsoft_365_Logo.png"),
@@ -314,6 +314,19 @@ const achievementSection = {
         },
       ]
     },
+    {
+      title: "Microsoft Excel Associate Microsoft 365 Apps",
+      subtitle:
+        "Completed the Microsoft Excel Associate Exam. This exam covers the basics of Microsoft Excel.",
+        image: require("./assets/images/Microsoft_365_Logo.png"),
+        imageAlt: "Microsoft 365 Apps Logo",
+        footerLink: [
+          {
+            name: "Certification",
+            url: "https://nextcloud.tannerschermerhorn.dev/s/RK9kzaoBDHLkE5f"
+          },
+        ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
