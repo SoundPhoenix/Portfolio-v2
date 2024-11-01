@@ -323,7 +323,7 @@ const achievementSection = {
         footerLink: [
           {
             name: "Certification",
-            url: "https://nextcloud.tannerschermerhorn.dev/s/RK9kzaoBDHLkE5f"
+            url: "https://drive.google.com/file/d/1gJv5-lohIs4J73t24ZpAsa6zd9lF-HCH/view?usp=drive_link"
           },
         ]
     }
