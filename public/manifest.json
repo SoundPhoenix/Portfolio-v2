@@ -1,19 +1,19 @@
 {
-  "short_name": "DeveloperFolio",
-  "name": "DeveloperFolio",
+  "short_name": "Tanner's Portfolio",
+  "name": "Tanner's Portfolio",
   "icons": [
     {
-      "src": "/favicon.ico",
+      "src": "/Public/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "/android-chrome-192x192.png?v8=qAJ44G5Bm7",
+      "src": "/public/favicon.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/android-chrome-384x384.png?v8=qAJ44G5Bm7",
+      "src": "/public/favicon.ico",
       "type": "image/png",
       "sizes": "384x384"
     }
