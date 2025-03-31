@@ -326,7 +326,33 @@ const achievementSection = {
             url: "https://drive.google.com/file/d/1gJv5-lohIs4J73t24ZpAsa6zd9lF-HCH/view?usp=drive_link"
           },
         ]
-    }
+      },
+      {
+        title: "Microsoft Powerpoint Associate Microsoft 365 Apps",
+        subtitle:
+          "Completed the Microsoft Powerpoint Exam This exam covers the basics of Microsoft Powerpoint.",
+          image: require("./assets/images/Microsoft_365_Logo.png"),
+          imageAlt: "Microsoft 365 Apps Logo",
+          footerLink: [
+            {
+              name: "Certification",
+              url: "https://drive.google.com/file/d/1dmZBXGECIytuxQki76t5U37tuRlI3u1V/view",
+            },
+          ]
+        },
+      {
+          title: "Microsoft Office Specialist Associate Microsoft 365 Apps",
+          subtitle:
+            "Completed the Microsoft Office Exams this covers everything in the Microsoft 365 office suite",
+            image: require("./assets/images/Microsoft_365_Logo.png"),
+            imageAlt: "Microsoft 365 Apps Logo",
+            footerLink: [
+            {
+                name: "Certification",
+                url: "https://drive.google.com/file/d/1ZcMLeCxLQZFKkQX88TXDNG_XVQqmoy00/view",
+            },
+          ]
+        },
   ],
   display: true // Set false to hide this section, defaults to true
 };
