@@ -235,7 +235,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -329,7 +329,20 @@ const achievementSection = {
       {
           title: "Microsoft Office Specialist Associate Microsoft 365 Apps",
           subtitle:
-            "Completed the Microsoft Office Exams this covers everything in the Microsoft 365 office suite",
+            "Completed the Microsoft Office Exams this covers everything in the Microsoft 365 office suite.",
+            image: require("./assets/images/Microsoft_365_Logo.png"),
+            imageAlt: "Microsoft 365 Apps Logo",
+            footerLink: [
+            {
+                name: "Certification",
+                url: "https://drive.google.com/file/d/1ZcMLeCxLQZFKkQX88TXDNG_XVQqmoy00/view",
+            },
+          ]
+        },
+              {
+          title: "CompTIA PC Pro",
+          subtitle:
+            "Completed the CompTIA PC Pro exam, this covers everything having to do with PC hardware and software.",
             image: require("./assets/images/Microsoft_365_Logo.png"),
             imageAlt: "Microsoft 365 Apps Logo",
             footerLink: [
