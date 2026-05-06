@@ -343,8 +343,8 @@ const achievementSection = {
           title: "CompTIA PC Pro",
           subtitle:
             "Completed the CompTIA PC Pro exam, this covers everything having to do with PC hardware and software.",
-            image: require("./assets/images/Microsoft_365_Logo.png"),
-            imageAlt: "Microsoft 365 Apps Logo",
+            image: require("./assets/images/comptiaPCPro.jpeg"),
+            imageAlt: "CompTIA PC Pro Logo",
             footerLink: [
             {
                 name: "Certification",
@@ -352,6 +352,19 @@ const achievementSection = {
             },
           ]
         },
+        {
+          title: "CompTIA A+",
+          subtitle:
+            "Completed the CompTIA A+ exams covering Core 1 and Core 2, these cores cover security, mobile devices, operating systems, hardware and software.",
+            image: require("./assets/images/comptiaA+.jpeg"),
+            imageAlt: "CompTIA A+ Logo",
+            footerLink: [
+            {
+                name: "Certification",
+                url: "https://drive.google.com/file/d/10o-JMyi0hrYj373x0Fq2cR6Gz2v9__92/view?usp=drive_link",
+            },
+          ]
+        }
   ],
   display: true // Set false to hide this section, defaults to true
 };
