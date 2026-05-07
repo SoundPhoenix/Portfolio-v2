@@ -34,10 +34,10 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/SoundPhoenix",
-  linkedin: "https://www.linkedin.com/in//",
-  email: "me@tannerschermerhorn.dev",
-  //gitlab: "https://gitlab.com/saadpasta",
-  //facebook: "https://www.facebook.com/",
+  //linkedin: "https://www.linkedin.com/in//",
+  gmail: "me@tannerschermerhorn.dev",
+  gitlab: "https://gitlab.com/SoundPhoenix",
+  facebook: "https://www.facebook.com/tanner.schermerhorn.2025",
   //medium: "https://medium.com/@saadpasta",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
