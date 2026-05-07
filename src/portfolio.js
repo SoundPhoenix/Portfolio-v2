@@ -343,7 +343,7 @@ const achievementSection = {
           title: "CompTIA PC Pro",
           subtitle:
             "Completed the CompTIA PC Pro exam, this covers everything having to do with PC hardware and software.",
-            image: require("./assets/images/comptiaPCPro.jpeg"),
+            image: require("./assets/images/comptiaPCpro.jpeg"),
             imageAlt: "CompTIA PC Pro Logo",
             footerLink: [
             {
